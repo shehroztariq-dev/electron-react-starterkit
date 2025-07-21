@@ -1,4 +1,4 @@
-# 📦 Your App Name
+# Electron React Starterkit
 
 A **cross-platform desktop application** built with **Electron**, **Vite**, and **React**.
 This setup uses **Electron Forge** for streamlined packaging and distribution, combined with Vite for blazing-fast development.
