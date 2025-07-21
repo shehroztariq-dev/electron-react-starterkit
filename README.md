@@ -1,7 +1,3 @@
-Here’s a professional `README.md` template tailored to your **Electron + Electron Forge + Vite + React** stack project:
-
----
-
 # 📦 Your App Name
 
 A **cross-platform desktop application** built with **Electron**, **Vite**, and **React**.
