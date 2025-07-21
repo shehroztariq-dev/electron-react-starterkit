@@ -4,7 +4,7 @@
 ![React Version](https://img.shields.io/badge/React-18.0.0-61DAFB?logo=react)
 ![Vite Version](https://img.shields.io/badge/Vite-5.0.0-646CFF?logo=vite)
 ![Platform Support](https://img.shields.io/badge/Windows|macOS|Linux-green.svg?logo=github)
-![License](https://img.shields.io/github/license/your-repo-name/electron-react-starterkit)
+![License](https://img.shields.io/github/license/shehroztariq-dev/electron-react-starterkit)
 
 ---
 
